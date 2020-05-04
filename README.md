@@ -1,4 +1,4 @@
-# image_denoising
+# Image Denoising
 Image Denoising by applying averaging method with Python and OpenCV libraries.
 
 **What is Gaussian Noise?**
